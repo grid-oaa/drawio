@@ -1,0 +1,19 @@
+{
+  "name": "drawio-mermaid-iframe-integration",
+  "version": "1.0.0",
+  "description": "Testing framework for Mermaid iframe integration in draw.io",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["drawio", "mermaid", "testing"],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "fast-check": "^3.15.0",
+    "@types/jest": "^29.5.11"
+  }
+}

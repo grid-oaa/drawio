@@ -1,0 +1,1 @@
+未发现统一格式化/静态检查工具配置。建议保持现有文件缩进与换行风格；避免全文件重排。资源按目录语义组织（js/styles/templates/resources/plugins/img）。
